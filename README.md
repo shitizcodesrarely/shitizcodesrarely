@@ -55,12 +55,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shitizcodesrarely&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=shitizcodesrarely&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=shitizcodesrarely&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shitizcodesrarely&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shitizcodesrarely&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165" />
 </p>
 
 ---
@@ -85,10 +85,10 @@
 
 <p align="center">
   <a href="https://github.com/shitizcodesrarely/Gym-Tracking-web-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shitizcodesrarely&repo=Gym-Tracking-web-&theme=default&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shitizcodesrarely&repo=Gym-Tracking-web-&theme=default&hide_border=true" />
   </a>
   <a href="https://github.com/shitizcodesrarely/parlourwebsite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shitizcodesrarely&repo=parlourwebsite&theme=default&hide_border=true" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shitizcodesrarely&repo=parlourwebsite&theme=default&hide_border=true" />
   </a>
 </p>
 
