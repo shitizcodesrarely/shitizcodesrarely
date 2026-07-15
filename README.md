@@ -49,7 +49,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,mongodb,git,github,figma,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,git,github,figma,mysql&perline=10" />
 </p>
 
 ---
