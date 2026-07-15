@@ -5,14 +5,14 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Shitiz Bhardwaj</h1>
-<h3 align="center">Full Stack Developer | Open Source Enthusiast | Problem Solver</h3>
+<h3 align="center">A passionate Software Developer from Earth</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=Learning+New+Languages;Contributing+to+Cool+Projects;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shitizcodesrarely&label=Profile%20Views&color=2F80ED&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shitizcodesrarely&label=Profile%20Views&color=2F80ED&style=flat&v=1" alt="profile views" />
   <a href="https://github.com/shitizcodesrarely?tab=followers">
     <img src="https://img.shields.io/github/followers/shitizcodesrarely?label=Followers&style=flat&color=2F80ED" alt="followers" />
   </a>
@@ -22,17 +22,15 @@
   <a href="mailto:bhardwajkshitij27@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Add these back once you have the actual links, otherwise remove -->
   <a href="https://www.linkedin.com/in/shitiz-bhardwaj-74b147292/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Shitizbhardwaj/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.hackerrank.com/profile/bhardwajkshitij3" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/bhardwajkshitij3" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -41,7 +39,7 @@
 
 - 🌱 Learning some programming languages and making contributions in my field
 - 👯 Open to collaborating on interesting projects
-- 💬 Ask me about **Java, Web Development, MySQL**
+- 💬 Ask me about **Java, Web Development, DBMS**
 - 📫 How to reach me: **bhardwajkshitij27@gmail.com**
 
 ---
@@ -49,7 +47,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,git,github,figma,mysql&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,mongodb,git,github,figma,linux&perline=10" />
 </p>
 
 ---
