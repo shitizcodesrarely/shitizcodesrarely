@@ -5,7 +5,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Shitiz Bhardwaj</h1>
-<h3 align="center">A passionate Software Developer from Earth</h3>
+<h3 align="center">Full Stack Developer | Open Source Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=Learning+New+Languages;Contributing+to+Cool+Projects;Always+Learning+New+Things" alt="Typing SVG" />
@@ -39,7 +39,7 @@
 
 - 🌱 Learning some programming languages and making contributions in my field
 - 👯 Open to collaborating on interesting projects
-- 💬 Ask me about **Java, Web Development, DBMS**
+- 💬 Ask me about **Java, Web Development, MySQL**
 - 📫 How to reach me: **bhardwajkshitij27@gmail.com**
 
 ---
@@ -47,7 +47,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,mongodb,git,github,figma,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,git,github,figma,mysql&perline=10" />
 </p>
 
 ---
